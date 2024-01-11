@@ -26,7 +26,7 @@ Ein Screenshot des Endbildschirms:
 Zum *Starten* müssen folgende Schritte berücksichtigt werden:
 
 1. Öffnen der Datei `Main.java`
-2. Starten der der Funktion `main()`
+2. Starten der Funktion `main()`
 
 ## JShell Anleitung
 
