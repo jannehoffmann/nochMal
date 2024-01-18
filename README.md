@@ -1,10 +1,10 @@
 # Noch mal!
 
-Das beliebte Würfelspiel "Noch mal!", ein fesselndes und unterhaltsames Spiel für zwei Personen, das Freunde und Familien gleichermaßen begeistert. In "Noch mal!" geht es darum, durch geschicktes Würfeln und strategische Auswahl von Farben und Zahlen die meisten Punkte zu sammeln und zum Sieger der Runde zu werden.
+Das beliebte Würfelspiel "Noch mal!" ist ein fesselndes und unterhaltsames Spiel für zwei Personen, das Freunde und Familien gleichermaßen begeistert. In "Noch mal!" geht es darum, durch geschickte Auswahl von Farben und Zahlen sowie strategische Auswahl von Feldern die meisten Punkte zu sammeln und zum Sieger der Runde zu werden.
 
 # Spielübersicht
 
-"Noch mal!" ist ein schnelles und intuitives Spiel, das sowohl Glück als auch strategisches Denken erfordert. Die Spieler würfeln abwechselnd mit Farb- und Zahlenwürfeln und füllen daraufhin Felder auf ihrem Spielfeld aus. Durch das Ausfüllen kompletter Spalten und Reihen können Punkte gesammelt werden, aber Vorsicht: Jede Entscheidung kann auch dem Mitspieler zum Vorteil gereichen!
+Nach dem Würfeln der Farb- und Zahlenwürfel wählt der Spieler die beiden günstigsten Würfel durch Anklicken aus. Anschließend markiert er die gewünschten Felder auf seinem Spielfeld. Das erste ausgewählte Feld eines Zuges muss entweder in Spalte H, am Rand des Spielfeldes oder neben einem bereits markierten Feld liegen. Alle darauffolgenden Felder müssen neben einem in diesem Zug markierten Feld liegen. Sobald ein Spieler sieben Spalten voll hat, ist das Spiel zu Ende und der Spieler hat gewonnen.
 
 ## Verwendete Bibliotheken
 Das Programm verwendet die folgenden Bibliotheken:
