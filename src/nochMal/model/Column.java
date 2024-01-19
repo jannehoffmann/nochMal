@@ -2,6 +2,9 @@ package nochMal.model;
 
 /**
  * Repräsentiert eine Spalte in einem Spiel, mit Punkten, Besetzungsstatus und weiteren Eigenschaften.
+ * Beispiel:
+ * var c = new Column(3, 2, 1);
+ * boolean b = c.isOccupiedByMe();
  */
 public class Column {
     private int number;

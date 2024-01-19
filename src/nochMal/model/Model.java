@@ -9,6 +9,9 @@ import java.util.Scanner;
 /**
  * Diese Klasse stellt das Model von NochMal dar.
  * Sie beinhaltet die komplette Logik des Spiels.
+ * Beispiel:
+ * var m = new Model();
+ * m.rollTheDice();
  */
 public class Model {
     private Field[][] fieldsOne;
@@ -220,8 +223,8 @@ public class Model {
     /**
      * Wählt ein Feld basierend auf der angegebenen Spalte und Zeile aus.
      *
-     * @param column Die Spaltennummer des auszuwählenden Feldes.
-     * @param row Die Zeilennummer des auszuwählenden Feldes.
+     * @param column Die Spaltennummer des auszuwählenden Feldes, sollte zwischen 0 und 14 liegen.
+     * @param row Die Zeilennummer des auszuwählenden Feldes, sollte zwischen 0 und 6 liegen.
      * @param fields Ein zweidimensionales Array von Feld-Objekten, die das Spielfeld von Spieler 1 oder Spieler 2 darstellen.
      * @return true, wenn das Feld erfolgreich ausgewählt wurde, false, wenn die Auswahl ungültig ist.
      *

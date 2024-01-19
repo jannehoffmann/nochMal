@@ -2,6 +2,9 @@ package nochMal.model;
 
 /**
  * Repräsentiert ein Feld auf einem Spielbrett mit einer Farbe, Spalte, Zeile und einem Besetzungsstatus.
+ * Beispiel:
+ * var f = new Field(Color.GREEN, 0, 1);
+ * f.setOccupied(true);
  */
 public class Field {
     private Color color;
