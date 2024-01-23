@@ -74,19 +74,19 @@ public class View extends PApplet implements IView {
         //zeichne Farbwürfel
         switch (colorDiceOne) {
             case GREEN:
-                fill(0, 255, 0);
+                fill(102, 205, 0);
                 break;
             case YELLOW:
-                fill(255, 255, 0);
+                fill(255, 215, 0);
                 break;
             case BLUE:
-                fill(0, 0, 255);
+                fill(79, 148, 205);
                 break;
             case RED:
-                fill(255, 0, 0);
+                fill(238, 44, 44);
                 break;
             case ORANGE:
-                fill(255, 165, 0);
+                fill(255, 140, 0);
                 break;
             case WHITE:
                 fill(255);
@@ -101,19 +101,19 @@ public class View extends PApplet implements IView {
 
         switch (colorDiceTwo) {
             case GREEN:
-                fill(0, 255, 0);
+                fill(102, 205, 0);
                 break;
             case YELLOW:
-                fill(255, 255, 0);
+                fill(255, 215, 0);
                 break;
             case BLUE:
-                fill(0, 0, 255);
+                fill(79, 148, 205);
                 break;
             case RED:
-                fill(255, 0, 0);
+                fill(238, 44, 44);
                 break;
             case ORANGE:
-                fill(255, 165, 0);
+                fill(255, 140, 0);
                 break;
             case WHITE:
                 fill(255);
@@ -128,19 +128,19 @@ public class View extends PApplet implements IView {
 
         switch (colorDiceThree) {
             case GREEN:
-                fill(0, 255, 0);
+                fill(102, 205, 0);
                 break;
             case YELLOW:
-                fill(255, 255, 0);
+                fill(255, 215, 0);
                 break;
             case BLUE:
-                fill(0, 0, 255);
+                fill(79, 148, 205);
                 break;
             case RED:
-                fill(255, 0, 0);
+                fill(238, 44, 44);
                 break;
             case ORANGE:
-                fill(255, 165, 0);
+                fill(255, 140, 0);
                 break;
             case WHITE:
                 fill(255);
@@ -211,19 +211,19 @@ public class View extends PApplet implements IView {
                 } else {
                     switch (fieldsOne[i][j].getColor()) {
                         case GREEN:
-                            fill(0, 255, 0);
+                            fill(102, 205, 0);
                             break;
                         case YELLOW:
-                            fill(255, 255, 0);
+                            fill(255, 215, 0);
                             break;
                         case BLUE:
-                            fill(0, 0, 255);
+                            fill(79, 148, 205);
                             break;
                         case RED:
-                            fill(255, 0, 0);
+                            fill(238, 44, 44);
                             break;
                         case ORANGE:
-                            fill(255, 165, 0);
+                            fill(255, 140, 0);
                             break;
                     }
                 }
@@ -301,19 +301,19 @@ public class View extends PApplet implements IView {
                 } else {
                     switch (fieldsTwo[i][j].getColor()) {
                         case GREEN:
-                            fill(0, 255, 0);
+                            fill(102, 205, 0);
                             break;
                         case YELLOW:
-                            fill(255, 255, 0);
+                            fill(255, 215, 0);
                             break;
                         case BLUE:
-                            fill(0, 0, 255);
+                            fill(79, 148, 205);
                             break;
                         case RED:
-                            fill(255, 0, 0);
+                            fill(238, 44, 44);
                             break;
                         case ORANGE:
-                            fill(255, 165, 0);
+                            fill(255, 140, 0);
                             break;
                     }
                 }
