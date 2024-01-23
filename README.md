@@ -30,4 +30,4 @@ Zum *Starten* müssen folgende Schritte berücksichtigt werden:
 
 ## JShell Anleitung
 
-Zum Starten in der JShell muss ein Terminal gestartet werden und die Befehle aus der Datei `JShell.txt` in das Terminal kopiert werden. Anschließend kann mittels Eingaben im Terminal gespielt werden.
+Zum Starten in der JShell muss ein Terminal gestartet werden und die Befehle aus der Datei `JShellTest.txt` in das Terminal kopiert werden. Anschließend kann mittels Eingaben im Terminal gespielt werden.
